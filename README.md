@@ -1,3 +1,3 @@
 # vcheck
 
-bulkipwin:0.5}
+bulkipwin:0.6}
