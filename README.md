@@ -1,4 +1,4 @@
 # vcheck
 
-bulkipwin:0.7.2}
-bulkipwinnew:- Fixed data retrieval from IPVoid and AbuseIPDB}
+bulkipwin:0.7.3|||
+bulkipwinnew:- Fixed data retrieval from IPVoid and AbuseIPDB|||
